@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Didgety
-- 👀 I’m interested in distributed systems development
-- 🌱 I’m currently learning Java, Javascript, Solidity, Rust
-- 💞️ I’m looking to collaborate on infrastructure, protocol, and application development
-- 📫 How to reach me: iFestor#2341 on Discord
+- 👀 I’m interested in distributed systems development, quantum computing, and visual programming
+- 🌱 I’m currently learning C++, Rust, Python
 
 <!---
 Didgety/Didgety is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
