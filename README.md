@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Didgety
-- 👀 I’m interested in distributed systems development, quantum computing, and realtime graphical programming
+- 👀 I’m interested in distributed systems development, quantum computing, networking, and realtime graphical programming
 - 🌱 I’m currently learning C++, Rust, Python
 
 <!---
